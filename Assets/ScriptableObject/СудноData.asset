@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicName: "\u0421\u0443\u0434\u043D\u043E"
   animationName: HipHop
-  notesConfig: {fileID: 0}
+  notesConfig: {fileID: 4900000, guid: 46fdf012da974d148894b58296c22ba4, type: 3}
