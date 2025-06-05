@@ -15,3 +15,4 @@ MonoBehaviour:
   musicName: Marciano
   animationName: Salsa
   notesConfig: {fileID: 4900000, guid: 13bda139e231c97478c7b75ef618ccb0, type: 3}
+  speed: 50
