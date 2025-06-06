@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f38dd05e470095945bb8f71119e90633, type: 3}
   m_Name: AnimalData
   m_EditorClassIdentifier: 
-  musicName: Animal Crossing
+  musicName: Animal
   animationName: Ymca
   notesConfig: {fileID: 4900000, guid: cfbf741c6f0e07a42a91c5cc5950185a, type: 3}
   speed: 120
