@@ -15,4 +15,4 @@ MonoBehaviour:
   musicName: La Boa
   animationName: DanceSnake
   notesConfig: {fileID: 4900000, guid: bebec8026cbd7b7478ea0dcf438f3281, type: 3}
-  speed: 50
+  speed: 100
