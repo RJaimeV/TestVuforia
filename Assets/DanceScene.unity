@@ -1409,7 +1409,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2091e30e0593714b9afaa455fef1a40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectToInstantiate: {fileID: 3280519133390621005, guid: a71be3e7990efb040a07565c43cbb198, type: 3}
+  objectToInstantiate: {fileID: 8771972552311404799, guid: bbf9e36a48d6c5648a13889afab076fd, type: 3}
 --- !u!4 &401252345
 Transform:
   m_ObjectHideFlags: 0
@@ -3103,14 +3103,14 @@ RectTransform:
   m_GameObject: {fileID: 1260992571}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1.7333, z: 1}
+  m_LocalScale: {x: 0.91161, y: 1.5800936, z: 0.91161}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1341338749}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 182}
+  m_AnchoredPosition: {x: 0, y: 181.93}
   m_SizeDelta: {x: 219, y: 70.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1260992573
@@ -3346,14 +3346,14 @@ RectTransform:
   m_GameObject: {fileID: 1280558010}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1.7484, z: 1}
+  m_LocalScale: {x: 0.91161, y: 1.593859, z: 0.91161}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 56445377}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 181}
+  m_AnchoredPosition: {x: -1, y: 181.02}
   m_SizeDelta: {x: 219, y: 70.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1280558012
@@ -3589,14 +3589,14 @@ RectTransform:
   m_GameObject: {fileID: 1324929748}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1.7333, z: 1}
+  m_LocalScale: {x: 0.91161, y: 1.5800936, z: 0.91161}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1231651966}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 182}
+  m_AnchoredPosition: {x: 0.35358, y: 181.93}
   m_SizeDelta: {x: 219, y: 70.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1324929750
@@ -4911,12 +4911,12 @@ MonoBehaviour:
           m_StringArgument: Victory
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 401252344}
+      - m_Target: {fileID: 401252343}
         m_TargetAssemblyTypeName: InstantiateObject, Assembly-CSharp
         m_MethodName: Instantiate
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 3280519133390621042, guid: a71be3e7990efb040a07565c43cbb198, type: 3}
+          m_ObjectArgument: {fileID: 8771972552311404736, guid: bbf9e36a48d6c5648a13889afab076fd, type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Transform, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0

@@ -15,4 +15,4 @@ MonoBehaviour:
   musicName: Animal Crossing
   animationName: Ymca
   notesConfig: {fileID: 4900000, guid: cfbf741c6f0e07a42a91c5cc5950185a, type: 3}
-  speed: 100
+  speed: 120
