@@ -29,27 +29,7 @@
         {"time":27.0, "lane":2},
         {"time":28.0, "lane":0},
         {"time":29.0, "lane":1},
-        {"time":30.0, "lane":2},
-        {"time":31.0, "lane":0},
-        {"time":32.0, "lane":1},
-        {"time":33.0, "lane":2},
-        {"time":34.0, "lane":0},
-        {"time":35.0, "lane":1},
-        {"time":36.0, "lane":2},
-        {"time":37.0, "lane":0},
-        {"time":38.0, "lane":1},
-        {"time":39.0, "lane":2},
-        {"time":40.0, "lane":0},
-        {"time":41.0, "lane":1},
-        {"time":42.0, "lane":2},
-        {"time":43.0, "lane":0},
-        {"time":44.0, "lane":1},
-        {"time":45.0, "lane":2},
-        {"time":46.0, "lane":0},
-        {"time":47.0, "lane":1},
-        {"time":48.0, "lane":2},
-        {"time":49.0, "lane":0},
-        {"time":50.0, "lane":1}     
+        {"time":30.0, "lane":2}   
  ]
 
 
